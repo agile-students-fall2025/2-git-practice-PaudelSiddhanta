@@ -13,3 +13,5 @@ Tools such as GitHub Copilot let developers automate repetitive work so they can
 
 ## Comment from Srijan Sthapit  (ss17894)
 I also found it interesting how microservices and cloud computing are making software more flexible and easier to scale. Plus, low-code and no-code tools are opening development to people without traditional programming skills.
+
+I think that while AI makes coding efficient, one has to be able to understand the nuances before being fully involved in AI in order to be able to decode and debug more copmlicated stuff in the future.
